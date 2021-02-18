@@ -1,0 +1,11 @@
+name: "website_bcst"
+title: "Biocontrol Target Selection System"
+description: |
+  Biocontrol Target Selection System
+output_dir: "_site"
+theme: theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

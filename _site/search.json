@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-18T16:00:49+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Biocontrol Target Selection System",
+      "author": [],
+      "contents": "\r\nThe Biological Control Target Selection (BCTS) system applied to 299 target alien plants listed on the National Environmental Management Biodiversity Act (NEMBA) in South Africa. The target plants have not yet had biocontrol agents released on them and were ranked in order of priority to determine which species are most suitable for biocontrol.\r\nFor more information see:\r\nPaper 1 (Downey et al. 2021):\r\nPaper 2 (Paterson et al. 2021):\r\nPaper 3 (Canavan et al. 2021):\r\nThis prioritisation project is intended to be updated with any new relevant information. If you would like to have any of the scoring or information updated please contact: Kim Canavan (K.Canavan@ru.ac.za).\r\nLast updated: 18 February, 2021\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-18T16:00:50+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
