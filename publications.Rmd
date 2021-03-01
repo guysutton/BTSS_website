@@ -1,11 +1,11 @@
 ---
 title: "BCTS papers"
 output:
-  html_document:
-    df_print: paged
   distill::distill_article:
     toc: false
     toc_depth: 4
+  html_document:
+    df_print: paged
 ---
 
 The BCTS system was established to help prioritise weed targets in South Africa for
