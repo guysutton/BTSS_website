@@ -3,7 +3,7 @@ title: "Biocontrol Target Selection System"
 site: distill::distill_website
 ---
 
-<a id="raw-url" href="https://github.com/guysutton/BTSS_website/blob/7dd3bd021ab89b770755fdb46b423f5ac1fe489a/_data/paper_three_supp_table.xlsx?raw=true">Supplementary Table S1</a>: The Biological Control Target Selection (BCTS) system was applied to 299 target alien plants listed on the National Environmental Management Biodiversity Act (NEMBA) in South Africa. The target plants have not yet had biocontrol agents released on
+<a id="raw-url" href="https://github.com/guysutton/BTSS_website/blob/2b2f97092c92949df4e34f544a68716b974bffee/_data/paper_three_supp_table.xlsx?raw=true">Supplementary Table S1</a>: The Biological Control Target Selection (BCTS) system was applied to 299 target alien plants listed on the National Environmental Management Biodiversity Act (NEMBA) in South Africa. The target plants have not yet had biocontrol agents released on
 them and were ranked in order of priority to determine which species are most suitable for
 biocontrol.
 
@@ -11,4 +11,5 @@ This prioritisation project is intended to be updated with any new relevant info
 you would like to have any of the scoring or information updated please contact: Kim Canavan (K.Canavan@ru.ac.za).  
 
 Last updated: `r format(Sys.time(), '%d %B, %Y')`
+
 
